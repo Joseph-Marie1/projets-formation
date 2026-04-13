@@ -12,14 +12,14 @@ Ce dépôt regroupe les projets de formation du parcours Data Analyst OpenClassr
 
 | Projet | Description | Stack | Dossier |
 |--------|-------------|-------|---------|
-| **P03 — SQL** | Requêtes sur une base de données relationnelle · filtrage · jointures · agrégations | SQL · PostgreSQL | [p03-sql](./p03-sql) |
+| **P03 — SQL** | Requêtes sur une base de données relationnelle · filtrage · jointures · agrégations | SQL · PostgreSQL | [Dépôt dédié](./p03-sql) |
 | **P05 — BDD immobilière** | Modélisation MCD/MLD · RGPD · granularités · diagramme UML | PostgreSQL · Looping · SQL | [Dépôt dédié](https://github.com/Joseph-Marie1/p05-bdd_immobiliere_postgresql) |
 
 ### BC02 — Identifier, collecter & analyser les données
 
 | Projet | Description | Stack | Dossier |
 |--------|-------------|-------|---------|
-| **P04 — Santé publique** | Sous-nutrition mondiale · FAO · cartographie GeoPandas · Top 10 pays | Python · GeoPandas · Pandas | [p04-sante-publique](./p04-sante-publique) |
+| **P04 — Santé publique** | Sous-nutrition mondiale · FAO · cartographie GeoPandas · Top 10 pays | Python · GeoPandas · Pandas | [Dépôt dédié](./p04-sante-publique) |
 | **P06 — Gestion boutique** | Fusion 3 sources · marge -634% détectée · analyse 20/80 | Python · Pandas · Outliers | [Dépôt dédié](https://github.com/Joseph-Marie1/p06-gestion_ventes_boutique_avec_python) |
 | **P08 — Égalité H/F** | DBT · Snowflake · enrichissement INSEE · 22.87% femmes en data | DBT · Snowflake · Jinja · Power BI | [Dépôt dédié](https://github.com/Joseph-Marie1/p08-egalite_hf_dbt_snowflake) |
 
@@ -27,7 +27,7 @@ Ce dépôt regroupe les projets de formation du parcours Data Analyst OpenClassr
 
 | Projet | Description | Stack | Dossier |
 |--------|-------------|-------|---------|
-| **P02 — Ventes e-commerce** | Analyse performances · saisonnalité · segmentation clients | Python · Pandas · Matplotlib | [p02-ventes-ecommerce](./p02-ventes-ecommerce) |
+| **P02 — Ventes e-commerce** | Analyse performances · saisonnalité · segmentation clients | Python · Pandas · Matplotlib | [Dépôt dédié](./p02-ventes-ecommerce) |
 | **P07 — Dashboard Sanitoral** | 104 projets · 101 alertes · Star Schema · 13 mesures DAX | Power BI · DAX · Power Query | [Dépôt dédié](https://github.com/Joseph-Marie1/p07-dashboard-powerbi-sanitoral) |
 | **P10 — Eau potable DWFA** | 194 pays · 18 ans · écart urbain/rural 35pts | Power BI · DAX · Star Schema | [Dépôt dédié](https://github.com/Joseph-Marie1/p10-etude_eau_potable_powerbi_dwfa) |
 
