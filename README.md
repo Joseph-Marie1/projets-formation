@@ -41,9 +41,9 @@ Ce dépôt regroupe les projets de formation du parcours Data Analyst OpenClassr
 
 | Projet | Description | Stack | Dossier |
 |--------|-------------|-------|---------|
-| **P09 — Ventes librairie** | CA 11.85M€ · Gini 0.446 · impact âge · tests statistiques | Python · SciPy · Pearson · Gini | [Dépôt dédié](https://github.com/Joseph-Marie1/p09-analyse_ventes_librairie_avec_python) |
+| **P09 — Ventes librairie** | CA 11.85M€ · Gini 0.446 · impact âge · tests statistiques | Python · SciPy · Pearson · Gini | [Dépôt dédié](https://github.com/Joseph-Marie1/p09-Analyse_des_ventes_librairie_avec_python) |
 | **P11 — Étude de marché** | ACP 89.2% variance · K-means · Ireland #1 · 96 pays | Python · Scikit-learn · CAH | [p11-etude-marche](./p11-etude-marche) |
-| **P12 — Faux billets ML** | AUC 0.9995 · Régression Logistique · 1 faux négatif sur 300 | Python · Scikit-learn · ML | [Dépôt dédié](https://github.com/Joseph-Marie1/p12-detection_faux_billets_avec_python) |
+| **P12 — Faux billets ML** | AUC 0.9995 · Régression Logistique · 1 faux négatif sur 300 | Python · Scikit-learn · ML | [Dépôt dédié](https://github.com/Joseph-Marie1/p12-Detection-de-Faux-Billets-Machine-Learning-ONCFM) |
 
 ---
 
@@ -57,9 +57,9 @@ Les projets les plus complexes disposent de dépôts dédiés avec documentation
 | P06 — Gestion données boutique | [Voir](https://github.com/Joseph-Marie1/p06-gestion_ventes_boutique_avec_python) |
 | P07 — Dashboard Power BI Sanitoral | [Voir](https://github.com/Joseph-Marie1/p07-dashboard-powerbi-sanitoral) |
 | P08 — Égalité H/F DBT + Snowflake | [Voir](https://github.com/Joseph-Marie1/p08-egalite_hf_dbt_snowflake) |
-| P09 — Analyse ventes librairie | [Voir](https://github.com/Joseph-Marie1/p09-Analyse_ventes_librairie_avec_python) |
+| P09 — Analyse ventes librairie | [Voir](https://github.com/Joseph-Marie1/p09-Analyse_des_ventes_librairie_avec_python) |
 | P10 — Eau potable DWFA | [Voir](https://github.com/Joseph-Marie1/p10-etude_eau_potable_powerbi_dwfa) |
-| P12 — Détection faux billets | [Voir](https://github.com/Joseph-Marie1/p12-detection_faux_billets_avec_python) |
+| P12 — Détection faux billets | [Voir](https://github.com/Joseph-Marie1/p12-Detection-de-Faux-Billets-Machine-Learning-ONCFM) |
 | P13 — Portfolio Aéroworld | [Voir](https://github.com/Joseph-Marie1/portfolio-data-analyst) |
 
 ---
